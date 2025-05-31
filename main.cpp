@@ -26,5 +26,10 @@ int main() {
     gameList.push_back("Borderlands 3");
     gameList.push_back("Avowed");
     gameList.push_back("Indiana Jones and the Great Circle");
+    gameList.push_back("Assassin's Creed: Shadows");
+    gameList.push_back("Marvel's Midnight Suns");
+    gameList.push_back("The Elder Scrolls IV Oblivion Remastered");
+    gameList.push_back("Marvel Spider-Man Remastered");
+    gameList.push_back("Tailed Grail: Fall of Avalon");
 	return 0;
 }
