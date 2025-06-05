@@ -31,5 +31,6 @@ int main() {
     gameList.push_back("The Elder Scrolls IV Oblivion Remastered");
     gameList.push_back("Marvel Spider-Man Remastered");
     gameList.push_back("Tailed Grail: Fall of Avalon");
+    gameList.push_back("South of Midnight");
 	return 0;
 }
