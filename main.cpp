@@ -33,5 +33,9 @@ int main() {
     gameList.push_back("Tailed Grail: Fall of Avalon");
     gameList.push_back("South of Midnight");
     gameList.push_back("Dragon Age: The Veilguard");
+    gameList.push_back("Star Wars Outlaw");
+    gameList.push_back("The Outer Worlds 2");
+    gameList.push_back("Dynasty Warriors Origins");
+    gameList.push_back("Ninja Gaiden 4");
 	return 0;
 }
